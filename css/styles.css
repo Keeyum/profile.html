@@ -1,0 +1,39 @@
+body{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(177, 237, 241);
+}
+
+h1{color: rgb(13, 207, 207);
+font: bold;
+text-shadow: 3px 2px 2px #4444dd;}
+
+u{color: rgb(14, 12, 110);
+font-size: large;}
+
+a{color: rgb(14, 12, 110);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: none;}
+
+a:hover{
+    text-decoration: none;
+    color: royalblue;
+    filter: drop-shadow(10px 10px 4px #4444dd);}
+
+.bobtiffany {
+    color: rgb(14, 12, 110);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;}
+
+.lists{
+    color: rgb(13, 207, 207);
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;}
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(370px, 10px));
+    grid-template-rows: 1fr 1fr 1fr;}
