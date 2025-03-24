@@ -2,14 +2,14 @@ body{
     color:rgb(0, 0, 0);
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(177, 237, 241);
+    background-color: #b1edf1;
 }
 
-h1{color: rgb(13, 207, 207);
+h1{color: #0dcfcf;
 font: bold;
 text-shadow: 3px 2px 2px #4444dd;}
 
-u{color: rgb(14, 12, 110);
+u{color: #0e0c6e;
 font-size: large;}
 
 a{color: rgb(14, 12, 110);
